@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @inboxamitraj
-- 👀 I’m interested in DevOps, SRE, DevOps tools, Kubernetes, AWS, Terraform, Python
-- 🌱 I’m currently learning Kubernetes/Terraform
-- 💞️ I’m looking to collaborate on Kubernetes/Terraform
+- 👀 I’m interested in DevOps, SRE, GitOps, MLOps, Kubernetes, AWS, Terraform, Python
+- 🌱 I’m currently learning Kubernetes/Terraform/Python/Data Structures/Algorithms
+- 💞️ I’m looking to collaborate on Kubernetes/Terraform/Python
 - 📫 How to reach me https://www.linkedin.com/in/amit-raj-80737a14/  
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inboxamitraj&layout=compact&hide=html,css)
