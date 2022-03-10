@@ -1,3 +1,6 @@
+
+   <h1 align="center">Amit Raj</h1>  
+
 - 👋 Hi, I’m @inboxamitraj
 - 👀 I’m interested in DevOps, SRE, GitOps, MLOps, Kubernetes, AWS, Terraform, Python
 - 🌱 I’m currently learning Kubernetes/Terraform/Python/Data Structures/Algorithms
