@@ -2,7 +2,9 @@
 - 👀 I’m interested in DevOps, SRE, DevOps tools, Kubernetes, AWS, Terraform, Python
 - 🌱 I’m currently learning Kubernetes/Terraform
 - 💞️ I’m looking to collaborate on Kubernetes/Terraform
-- 📫 How to reach me https://www.linkedin.com/in/amit-raj-80737a14/
+- 📫 How to reach me https://www.linkedin.com/in/amit-raj-80737a14/  
+
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inboxamitraj&layout=compact&hide=html,css)
 
 <!---
 inboxamitraj/inboxamitraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
