@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @inboxamitraj
 - 👀 I’m interested in DevOps, SRE, GitOps, Kubernetes, AWS, Terraform, Python
-- 🌱 I’m currently learning EKS(AWS)/Python
+- 🌱 I’m currently learning K8s/EKS/AWS/Terraform/GitOps/Python
 - 💞️ I’m looking to collaborate on Kubernetes/Terraform/Python
 - 📫 How to reach me https://www.linkedin.com/in/amit-raj-80737a14/  
 
