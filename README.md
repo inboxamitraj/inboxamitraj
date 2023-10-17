@@ -4,7 +4,7 @@
 - 👋 Hi, I’m @inboxamitraj
 - 👀 I’m interested in DevOps, SRE, GitOps, Kubernetes, AWS, Terraform
 - 💞️ I’m looking to collaborate on Kubernetes/Terraform/AWS
-- 📫 How to reach me https://www.linkedin.com/in/amit-raj-80737a14/  
+- 📫 How to reach me https://www.linkedin.com/in/inboxamitraj/  
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inboxamitraj&layout=compact&hide=html,css)
 
