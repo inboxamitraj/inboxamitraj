@@ -1,5 +1,5 @@
 
-   <h1 align="center">Amit Raj(+65-87862939)</h1>  
+   <h1 align="center">Amit Raj</h1>  
 
 - 👋 Hi, I’m @inboxamitraj
 - 👀 I’m interested in DevOps, SRE, GitOps, Kubernetes, AWS, Terraform
