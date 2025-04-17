@@ -2,8 +2,8 @@
    <h1 align="center">Amit Raj</h1>  
 
 - 👋 Hi, I’m @inboxamitraj
-- 👀 I’m interested in DevOps, SRE, GitOps, Kubernetes, AWS, Terraform
-- 💞️ I’m looking to collaborate on Kubernetes/Terraform/AWS
+- 👀 I’m interested in DevOps, MLOps, SRE, Kubernetes, AWS, Azure, Terraform
+- 💞️ I’m looking to collaborate on MLOps
 - 📫 How to reach me https://www.linkedin.com/in/inboxamitraj/  
 
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inboxamitraj&layout=compact&hide=html,css)
